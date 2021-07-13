@@ -1,2 +1,2 @@
 # Car-rental
-Simple java ui program
+Simple Java UI program
